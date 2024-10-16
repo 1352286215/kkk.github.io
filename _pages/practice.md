@@ -7,6 +7,6 @@ redirect_from:
   - /pr/
 ---
 
-layout: archive
+{% include base_path %}
 
 hahahahah
